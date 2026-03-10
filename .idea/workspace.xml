@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c2cd3c9-e4f4-4a35-9bb9-eaa8044c13bc" name="Changes" comment="Initial Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xgb_model_gold.py" beforeDir="false" afterPath="$PROJECT_DIR$/xgb_model_gold.py" afterDir="false" />
-    </list>
+    <list default="true" id="6c2cd3c9-e4f4-4a35-9bb9-eaa8044c13bc" name="Changes" comment="readme and requirements.txt commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,11 +102,29 @@
       <option name="project" value="LOCAL" />
       <updated>1773178155605</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update trading index and logic for gold &amp; btc">
+      <option name="closed" value="true" />
+      <created>1773179143553</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1773179143553</updated>
+    </task>
+    <task id="LOCAL-00006" summary="readme and requirements.txt commit">
+      <option name="closed" value="true" />
+      <created>1773179467055</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1773179467055</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="update trading index and logic for gold &amp; btc" />
+    <MESSAGE value="readme and requirements.txt commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme and requirements.txt commit" />
   </component>
 </project>
