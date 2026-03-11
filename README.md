@@ -54,7 +54,7 @@ SIGNAL: BUY / GO LONG
 ```
 
 ## 📂 Repository Structure
-*   `xgb_model_sp500.py`: High-Sharpe equity allocation model.
+*   `xgb_model_gspc.py`: High-Sharpe equity allocation model.
 *   `xgb_model_btc.py`: Leveraged crypto-cycle model.
 *   `xgb_model_gold.py`: Macro-based precious metals model.
 *   `test.py`: Experimental script for feature testing.
